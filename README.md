@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Om Shinde</h1>
-<h3 align="center">Software Developer Intern at Tenfins Consulting, Boulder, CO, USA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-badgujar&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-badgujar" /> </p>
 
